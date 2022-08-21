@@ -1,0 +1,6 @@
+ru\korolev\FirstHttpServlet.class
+ru\korolev\persist\ProductRepository.class
+ru\korolev\FirstServlet.class
+ru\korolev\persist\Product.class
+ru\korolev\EncodingFilter.class
+ru\korolev\ProductServlet.class
